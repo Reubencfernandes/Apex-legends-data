@@ -10,7 +10,7 @@
     "UltimateImage":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-ultimate-bloodhound.png.adapt.crop16x9.652w.png",
     "Ultimate":"Enhances your senses, allowing you move faster and highlighting your prey.",
     "Image":"https://cdn.glitch.me/ad440fa6-74ef-412e-a436-c369122705f0%2Fbloodhound.png?v=1634447048555",
-    "Video":"https://youtu.be/dCXOnxM8sdY"
+    "Video":"https://www.youtube.com/embed/dCXOnxM8sdY"
 },{
     "Name":"LIFELINE",
     "PassiveName":"Combat Medic",
@@ -23,7 +23,7 @@
     "UltimateImage":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-ultimate-lifeline.png.adapt.crop16x9.652w.png",
     "Ultimate":"Call in a drop pod full of high-quality defensive gear.",
     "Image":"https://cdn.glitch.me/ad440fa6-74ef-412e-a436-c369122705f0%2Flifeline.png?v=1636649614674",
-    "Video":"https://youtu.be/nxXFfe5X5qo"
+    "Video":"https://www.youtube.com/embed/nxXFfe5X5qo"
 },{
     "Name":"GIBRALTAR",
     "PassiveName":"Gun Shield",
@@ -36,7 +36,7 @@
     "UltimateImage":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-ultimate-gibraltar.png.adapt.crop16x9.652w.png",
     "Ultimate":"Call in a concentrated mortar strike on a marked position.",
     "Image":"https://cdn.glitch.me/ad440fa6-74ef-412e-a436-c369122705f0%2Fgibraltar.png?v=1634448303750",
-    "Video":"https://youtu.be/ccDyztf9FjU"
+    "Video":"https://www.youtube.com/embed/ccDyztf9FjU"
 },{
     "Name":"PATHFINDER",
     "PassiveName":"Insider Knowledge",
@@ -49,7 +49,7 @@
     "UltimateImage":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-ultimate-pathfinder.png.adapt.crop16x9.652w.png",
     "Ultimate":"Create a zipline for everyone to use.",
     "Image":"https://cdn.glitch.me/ad440fa6-74ef-412e-a436-c369122705f0%2Fpathfinder.png?v=1636649784403",
-    "Video":"https://youtu.be/iT4C1aIS9Ww"
+    "Video":"https://www.youtube.com/embed/iT4C1aIS9Ww"
 },{
     "Name":"WRAITH",
     "PassiveName":"Voices from the Void",
@@ -62,7 +62,7 @@
     "UltimateImage":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-ultimate-wraith.png.adapt.crop16x9.652w.png",
     "Ultimate":"Link two locations with portals for 60 seconds, allowing your entire team to use them.",
     "Image":"https://cdn.glitch.me/ad440fa6-74ef-412e-a436-c369122705f0%2Fwraith.png?v=1636649770495",
-    "Video":"https://youtu.be/yU_eip8IvQU"
+    "Video":"https://www.youtube.com/embed/yU_eip8IvQU"
 },{
     "Name":"BANGALORE",
     "PassiveName":"Double Time",
@@ -75,7 +75,7 @@
     "UltimateImage":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-ultimate-bangalore.png.adapt.crop16x9.652w.png",
     "Ultimate":"Call in an artillery strike that slowly creeps across the landscape.",
     "Image":"https://cdn.glitch.me/ad440fa6-74ef-412e-a436-c369122705f0%2Fbangalore.png?v=1634447031566",
-    "Video":"https://youtu.be/JyJhFYNob30"
+    "Video":"https://www.youtube.com/embed/JyJhFYNob30"
 },{
     "Name":"CAUSTIC",
     "PassiveName":"Nox Vision",
@@ -88,7 +88,7 @@
     "UltimateImage":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-ultimate-caustic.png.adapt.crop16x9.652w.png",
     "Ultimate":"Blankets a large area in Nox gas. ",
     "Image":"https://cdn.glitch.me/ad440fa6-74ef-412e-a436-c369122705f0%2Fcaustic.png?v=1634448148164",
-    "Video":"https://youtu.be/dSz8Dnj1pdI"
+    "Video":"https://www.youtube.com/embed/dSz8Dnj1pdI"
 },{
     "Name":"MIRAGE",
     "PassiveName":"Now You See Me . . .",
@@ -101,7 +101,7 @@
     "UltimateImage":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-ultimate-mirage.png.adapt.crop16x9.652w.png",
     "Ultimate":"Deploy a team of Decoys to distract enemies.",
     "Image":"https://cdn.glitch.me/ad440fa6-74ef-412e-a436-c369122705f0%2Fmirage.png?v=1636649607727",
-    "Video":"https://youtu.be/gPHlrmyM8v4"
+    "Video":"https://www.youtube.com/embed/gPHlrmyM8v4"
 },{
     "Name":"OCTANE",
     "PassiveName":"Swift Mend",
@@ -114,7 +114,7 @@
     "UltimateImage":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-ultimate-octane.png.adapt.crop16x9.652w.png",
     "Ultimate":"Deploy a jump pad that catapults teammates through the air.",
     "Image":"https://cdn.glitch.me/ad440fa6-74ef-412e-a436-c369122705f0%2Foctane.png?v=1636649590537",
-    "Video":"https://youtu.be/aOdTqvcEaZ8"
+    "Video":"https://www.youtube.com/embed/aOdTqvcEaZ8"
 },{
     "Name":"WATTSON",
     "PassiveName":"Spark of Genius",
@@ -127,7 +127,7 @@
     "UltimateImage":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-ultimate-wattson.png.adapt.crop16x9.652w.png",
     "Ultimate":"Place an electrified pylon that destroys incoming ordnance and repairs damaged shields.",
     "Image":"https://cdn.glitch.me/ad440fa6-74ef-412e-a436-c369122705f0%2Fwattson.png?v=1636649816983",
-    "Video":"https://youtu.be/BuqnLGbjhkY"
+    "Video":"https://www.youtube.com/embed/BuqnLGbjhkY"
 },{
     "Name":"CRYPTO",
     "PassiveName":"Neurolink",
@@ -140,7 +140,7 @@
     "UltimateImage":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/ability-icons/apex-grid-tile-legends-abilities-ultimate-crypto.png.adapt.crop16x9.652w.png",
     "Ultimate":"Your Surveillance Drone sets off an EMP blast that deals shield damage, slows enemies, and disables traps.",
     "Image":"https://cdn.glitch.me/ad440fa6-74ef-412e-a436-c369122705f0%2Fcrypto.png?v=1634448142839",
-    "Video":"https://youtu.be/5_8WHxyW86o"
+    "Video":"https://www.youtube.com/embed/5_8WHxyW86o"
 },{
     "Name":"REVENANT",
     "PassiveName":"Stalker",
@@ -153,7 +153,7 @@
     "UltimateImage":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2020/02/revenant-assets/ultimate-revenant.png.adapt.crop16x9.652w.png",
     "Ultimate":"Drop a totem that protects those who use it from death for a set amount of time. Instead of being killed or downed, users will return to the totem.",
     "Image":"https://cdn.glitch.me/ad440fa6-74ef-412e-a436-c369122705f0%2Frevenant.png?v=1636649809692",
-    "Video":"https://youtu.be/75szF5i41Bw"
+    "Video":"https://www.youtube.com/embed/75szF5i41Bw"
 },{
     "Name":"LOBA",
     "PassiveName":"Eye for Quality",
@@ -166,7 +166,7 @@
     "UltimateImage":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2020/05/apex-grid-tile-legends-abilities-ultimate-loba.png.adapt.crop16x9.652w.png",
     "Ultimate":"Place a portable device that allows you to teleport nearby loot to your inventory. Each friendly or enemy Legend can take up to two items.",
     "Image":"https://cdn.glitch.me/ad440fa6-74ef-412e-a436-c369122705f0%2Floba.png?v=1636649665561",
-    "Video":"https://youtu.be/lwp429eqER4"
+    "Video":"https://www.youtube.com/embed/lwp429eqER4"
 },{
     "Name":"RAMPART",
     "PassiveName":"Modded Loader",
@@ -179,7 +179,7 @@
     "UltimateImage":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2020/08/rampart/apex-grid-tile-legends-abilities-ultimate-rampart.png.adapt.crop16x9.652w.png",
     "Ultimate":"Place a mounted machine gun that anyone can use. High ammo capacity, long reload time.",
     "Image":"https://cdn.glitch.me/ad440fa6-74ef-412e-a436-c369122705f0%2Frampart.png?v=1636649807202",
-    "Video":"https://youtu.be/3i4v7voO8NM"
+    "Video":"https://www.youtube.com/embed/3i4v7voO8NM"
 },{
     "Name":"HORIZON",
     "PassiveName":"SPACEWALK",
@@ -192,7 +192,7 @@
     "UltimateImage":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2020/10/horizon/apex-grid-tile-legends-abilities-ultimate-horizon.png.adapt.crop16x9.652w.png",
     "Ultimate":"Deploy N.E.W.T. to create a micro black hole that pulls players in towards it, and hits them with a graviton blast at the end.",
     "Image":"https://cdn.glitch.me/ad440fa6-74ef-412e-a436-c369122705f0%2Ffuse.png?v=1634448301235",
-    "Video":"https://youtu.be/NKOVl6F8bjA"
+    "Video":"https://www.youtube.com/embed/NKOVl6F8bjA"
 },{
     "Name":"FUSE",
     "PassiveName":"GRENADIER",
@@ -205,7 +205,7 @@
     "UltimateImage":"https://media.contentapi.ea.com/content/dam/apex-legends/common/season-8/fuse-page/apex-grid-tile-legends-abilities-ultimate-fuse.png.adapt.crop16x9.652w.png",
     "Ultimate":"Launch a bombardment that encircles a target area in a wall of flame.",
     "Image":"https://cdn.glitch.me/ad440fa6-74ef-412e-a436-c369122705f0%2Fhorizon.png?v=1636649583832",
-    "Video":"https://youtu.be/6Ct3Yq5jncY"
+    "Video":"https://www.youtube.com/embed/6Ct3Yq5jncY"
 },{
     "Name":"VALKYRIE",
     "PassiveName":"VTOL Jets",
@@ -218,7 +218,7 @@
     "UltimateImage":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2021/04/apex-grid-tile-legends-abilities-ultimate-valkyrie.png.adapt.crop16x9.652w.png",
     "Ultimate":"Launch into the air and sky dive. Allies can hook into take-off systems to join you.",
     "Image":"https://cdn.glitch.me/ad440fa6-74ef-412e-a436-c369122705f0%2Fvalkyrie.png?v=1636649812950",
-    "Video":"https://youtu.be/hgQcnyILJSk"
+    "Video":"https://www.youtube.com/embed/hgQcnyILJSk"
 },{
     "Name":"SEER",
     "PassiveName":"Heart Seeker",
@@ -231,7 +231,7 @@
     "UltimateImage":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2021/07/seer-assets/apex-grid-tile-legends-abilities-ultimate-seer.png.adapt.crop16x9.652w.png",
     "Ultimate":"Create a sphere of micro-drones that reveal the location of enemies moving quickly or firing their weapons within.",
     "Image":"https://cdn.glitch.me/ad440fa6-74ef-412e-a436-c369122705f0%2Fvalkyrie.png?v=1636649812950",
-    "Video":"https://youtu.be/nkWa_I6CC48"
+    "Video":"https://www.youtube.com/embed/nkWa_I6CC48"
 },{
     "Name":"ASH",
     "PassiveName":"Marked For Death",
@@ -244,5 +244,5 @@
     "UltimateImage":"https://media.contentapi.ea.com/content/dam/apex-legends/common/legends/ash/apex-grid-tile-legends-abilities-ultimate-ash.png.adapt.crop16x9.652w.png",
     "Ultimate":"Tear open a one-way portal to a targeted location.",
     "Image":"https://cdn.glitch.me/ad440fa6-74ef-412e-a436-c369122705f0%2Fvalkyrie.png?v=1636649812950",
-    "Video":"https://youtu.be/RY6j8RzpI5U"
+    "Video":"https://www.youtube.com/embed/RY6j8RzpI5U"
 }]}
