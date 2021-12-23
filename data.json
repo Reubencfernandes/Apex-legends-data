@@ -230,7 +230,7 @@
     "UltimateName":"Exhibit",
     "UltimateImage":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2021/07/seer-assets/apex-grid-tile-legends-abilities-ultimate-seer.png.adapt.crop16x9.652w.png",
     "Ultimate":"Create a sphere of micro-drones that reveal the location of enemies moving quickly or firing their weapons within.",
-    "Image":"https://cdn.glitch.me/ad440fa6-74ef-412e-a436-c369122705f0%2Fvalkyrie.png?v=1636649812950",
+    "Image":"https://cdn.glitch.me/ad440fa6-74ef-412e-a436-c369122705f0/seer.png?v=1640279791560",
     "Video":"https://www.youtube.com/embed/nkWa_I6CC48"
 },{
     "Name":"ASH",
@@ -243,6 +243,6 @@
     "UltimateName":"Phase Breach",
     "UltimateImage":"https://media.contentapi.ea.com/content/dam/apex-legends/common/legends/ash/apex-grid-tile-legends-abilities-ultimate-ash.png.adapt.crop16x9.652w.png",
     "Ultimate":"Tear open a one-way portal to a targeted location.",
-    "Image":"https://cdn.glitch.me/ad440fa6-74ef-412e-a436-c369122705f0%2Fvalkyrie.png?v=1636649812950",
+    "Image":"https://cdn.glitch.me/ad440fa6-74ef-412e-a436-c369122705f0/ash.png?v=1640279908121",
     "Video":"https://www.youtube.com/embed/RY6j8RzpI5U"
 }]}
