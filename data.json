@@ -258,4 +258,30 @@
     "Ultimate":"Throw a ball that releases speed-boosting pads and detonates near enemies.",
     "Image":"https://cdn.glitch.global/ad440fa6-74ef-412e-a436-c369122705f0/mad_maggie.png.png?v=1643989533179",
     "Video":"https://www.youtube.com/embed/JZPbJ6VKs2E"
+},{
+    "Name":"NEWCASTLE",
+    "PassiveName":"Retrieve the Wounded",
+    "PassiveImage":"https://media.contentapi.ea.com/content/dam/apex-legends/common/saviors/newcastle-legends-page/apex-grid-tile-legends-abilities-passive-newcastle.png.adapt.crop16x9.652w.png",
+    "Passive":"Drag downed allies as you revive and protect them with your Revive Shield.",
+    "TacticalName":"Mobile Shield",
+    "TacticalImage":"https://media.contentapi.ea.com/content/dam/apex-legends/common/saviors/newcastle-legends-page/apex-grid-tile-legends-abilities-tactical-newcastle.png.adapt.crop16x9.652w.png",
+    "Tactical":"Throw a controllable drone that creates a moving energy shield.",
+    "UltimateName":"Castle Wall",
+    "UltimateImage":"https://media.contentapi.ea.com/content/dam/apex-legends/common/saviors/newcastle-legends-page/apex-grid-tile-legends-abilities-ultimate-newcastle.png.adapt.crop16x9.652w.png",
+    "Ultimate":"Leap to an ally or target area and slam down, creating a fortified stronghold..",
+    "Image":"https://cdn.glitch.global/ad440fa6-74ef-412e-a436-c369122705f0/newcastle.png?v=1660310522938",
+    "Video":"https://youtu.be/dSIG8hDjzIo"
+},{
+    "Name":"VANTAGE",
+    "PassiveName":"Spotter's Lens",
+    "PassiveImage":"https://media.contentapi.ea.com/content/dam/apex-legends/common/hunted/vantage/apex-grid-tile-legends-abilities-passive-vantage.png.adapt.crop16x9.652w.png",
+    "Passive":"Aim down sights to scout with your eyepiece (unarmed or with mid- to long-range scopes) and use a bullet drop indicator to see where your shots will land.",
+    "TacticalName":"Echo Relocation",
+    "TacticalImage":"https://media.contentapi.ea.com/content/dam/apex-legends/common/hunted/vantage/apex-grid-tile-legends-abilities-tactical-vantage.png.adapt.crop16x9.652w.png",
+    "Tactical":"Position your winged companion Echo and then Launch towards him. Must have line of sight for Echo to launch.",
+    "UltimateName":"Sniper's Mark",
+    "UltimateImage":"https://media.contentapi.ea.com/content/dam/apex-legends/common/hunted/vantage/apex-grid-tile-legends-abilities-ultimate-vantage.png.adapt.crop16x9.652w.png",
+    "Ultimate":"Use your custom sniper rifle to mark enemy targets and apply a damage bonus for you and your team.",
+    "Image":"https://cdn.glitch.global/ad440fa6-74ef-412e-a436-c369122705f0/vantage.png?v=1660310834854",
+    "Video":"https://youtu.be/DsmEczpCnZE"
 }]}
